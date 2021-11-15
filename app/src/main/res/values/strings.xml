@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">FragmentApp</string>
+    <string name="menu">Меню</string>
+    <string name="advice">Совет</string>
+    <string name="info">О нас</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="in_development_menu">Раздел "Меню" находится в разработке</string>
+    <string name="in_development_advice">Раздел "Совет" находится в разработке</string>
+    <string name="my_info">\n
+        Над приложением работал \n
+        Спиридонов Антон Андреевич. \n
+        Опыта в разработке, не имею. \n
+        Работаю в ПАО Ростелеком \n
+        ведущим инженером в группе технического учета</string>
+    <string name="website">Сайт для обучения</string>
 </resources>
