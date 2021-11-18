@@ -1,17 +1,23 @@
 <resources>
-    <string name="app_name">FragmentApp</string>
+    <string name="app_name">FinishApp</string>
     <string name="menu">Меню</string>
     <string name="advice">Совет</string>
     <string name="info">О нас</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="in_development_menu">Раздел "Меню" находится в разработке</string>
-    <string name="in_development_advice">Раздел "Совет" находится в разработке</string>
+    <string name="in_development_advice">Раздел Совет находится в разработке</string>
     <string name="my_info">\n
-        Над приложением работал \n
+        Тема: Реализация Android приложения. \n
+        Цель проекта: Закрепление знаний полученных в ходе обучения. \n
+        Преподаватель: Новопашенный Максим Витальевич. \n
+        \n
+        Над приложением работал: \n
         Спиридонов Антон Андреевич. \n
-        Опыта в разработке, не имею. \n
+        Опыта в разработке, не имею - полный ноль. \n
         Работаю в ПАО Ростелеком \n
-        ведущим инженером в группе технического учета</string>
-    <string name="website">Сайт для обучения</string>
+        Ведущим инженером в группе технического учета. \n
+
+    </string>
+    <string name="website">Поделиться</string>
+    <string name="order">Заказать</string>
 </resources>
